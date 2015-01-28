@@ -1,2 +1,4 @@
-# dimples-poker
-C++ Poker Engine (or attempt at creating engine)
+DimplesPoker
+============
+
+C++ Poker Engine for NodeJS Integration.
