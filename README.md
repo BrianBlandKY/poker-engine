@@ -14,6 +14,10 @@ I blame Jason Somerville for this application! I watch twitch streams quite ofte
 
 Research Material
 
-http://www.suffecool.net/poker/evaluator.html <- This dude built a 7 card evaluator and sold the license. Certified badass.
+This guy built a 7-card Hold Em' evaluator and sold the license. Certified bad ass.
 
-http://www.codeproject.com/Articles/569271/A-Poker-hand-analyzer-in-JavaScript-using-bit-math <- Bitwise Approach that really helps you understand ways to optimize process intensive tasks.
+http://www.suffecool.net/poker/evaluator.html 
+
+Bitwise approach that really helps you understand ways to optimize process intensive tasks.
+
+http://www.codeproject.com/Articles/569271/A-Poker-hand-analyzer-in-JavaScript-using-bit-math 
