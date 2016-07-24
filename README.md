@@ -1,4 +1,4 @@
-DimplesPoker
+Poker
 ============
 
 C++ Poker Engine for NodeJS Integration.
