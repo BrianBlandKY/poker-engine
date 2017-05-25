@@ -16,7 +16,7 @@ Research Material
 
 This guy built a 7-card Hold Em' evaluator and sold the license. Certified bad ass.
 
-http://www.suffecool.net/poker/evaluator.html 
+http://suffe.cool/poker/evaluator.html
 
 Bitwise approach that really helps you understand ways to optimize process intensive tasks.
 
